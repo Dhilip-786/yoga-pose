@@ -1,0 +1,7 @@
+pip install mediapipe
+pip install numpy
+pip install cv2
+pip install cvzone
+pip install ultralytics
+pip install pillow
+pip install tensorflow
